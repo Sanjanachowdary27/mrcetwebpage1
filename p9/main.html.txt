@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>dept</title>
+</head>
+<body>
+    <center>
+<ul>
+<li>cse</li>
+<li>ece</li>
+<li>eee</li>
+<li>civil</li>
+</ul>
+</center>
+</body>
+</html>
